@@ -17,7 +17,7 @@ public class Program3000 {
         pom.Pietro = 1;
         
         System.out.println(pom.nazwa +" o wymiarach: "+pom.x +pom.y +" na piętrze nr: " +pom.Pietro);
-        
+        System.out.println("Nowy commit! :D ");
         
     }
     

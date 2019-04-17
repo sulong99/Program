@@ -12,7 +12,7 @@ public abstract class Pietro implements Powierzchnia {
     int iloscPomieszczen;
     int numerPietra;
 
-
+    int iloscS;
 
 
 

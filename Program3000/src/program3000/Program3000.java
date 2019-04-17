@@ -7,8 +7,8 @@ public class Program3000 {
    
     public static void main(String[] args) {
     
-        
-        System.out.println(" Chce sie zabic :)");
+        Pomieszczenie p1 = new Pomieszczenie();
+        System.out.println("  :)");
         
         
     }

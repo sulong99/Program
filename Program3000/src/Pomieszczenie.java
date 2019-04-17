@@ -8,12 +8,8 @@
  *
  * @author student
  */
-public abstract class Pietro implements Powierzchnia {
-    int iloscPomieszczen;
-    int numerPietra;
-
-
-
-
-
+public class Pomieszczenie extends ElPietra{
+    int x,y;
+    String nazwa;
+    
 }

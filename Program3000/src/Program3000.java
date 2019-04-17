@@ -13,10 +13,10 @@ public class Program3000 {
         Pomieszczenie pom = new Pomieszczenie();
         pom.x = 10;
         pom.y = 12;
-        pom.nazwa = "cos";
+        pom.nazwa = "nazwa";
         pom.Pietro = 1;
         
-        System.out.println("  :)");
+        System.out.println(pom.nazwa +" o wymiarach: "+pom.x +pom.y +" na piętrze nr: " +pom.Pietro);
         
         
     }
